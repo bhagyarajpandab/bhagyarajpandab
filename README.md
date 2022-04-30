@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhagyarajpandab
 - 👀 I’m interested in Full Stack devlopment
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me ...
+- 📫 How to reach me ... @mailto:1805291@kiit.ac.in
   
 <!---
 bhagyarajpandab/bhagyarajpandab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
